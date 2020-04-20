@@ -4,7 +4,7 @@ This is Basic Java Code For Create Update Insert and delete Operations.
 Mysql is used as a data Base.
 Jdbc is used for Database Connectivity
 
-	Create the following DB table
+#	TableStructure
 #	Field name	Field type
 1	ID	Integer and UNIQUE (PK)
 2	Name	Character
